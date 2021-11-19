@@ -2,8 +2,6 @@ package skipass;
 
 import lombok.ToString;
 
-import java.util.Date;
-
 @ToString
 public class LiftsTicket extends SkiPass{
     LiftsTicket() {}
